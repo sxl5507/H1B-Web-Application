@@ -7,10 +7,10 @@ Objective:
     3. search H-1B official data based on employer name or job title or any combination, and similar names and titles are returned
     
     Design:
-        this cool interactive web application is able to be distributed through internet in the future
-        * with efficient data loading process to minimize RAM usage
-        * with robust search engine to prohibit meaningless search (eg. non alphanumeric characters are skipped, and search with space is not allowed)
-        * with instructive real time message/error
+    this cool interactive web application is able to be distributed through internet in the future
+    * with efficient data loading process to minimize RAM usage
+    * with robust search engine to prohibit meaningless search (eg. non alphanumeric characters are skipped, and search with space is not allowed)
+    * with instructive real time message/error
 
 
 Description:
